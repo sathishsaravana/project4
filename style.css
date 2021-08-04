@@ -130,7 +130,7 @@ body {
   transform: translate(-20px, 68px);
 }
 .cont-left input {
-  width: 300px;
+  width: 250px;
   padding: 5px 0;
   margin: 10px 0;
 }
@@ -141,6 +141,7 @@ body {
 }
 .cont input::placeholder {
   color: white;
+  padding: 0 10px;
 }
 .cont-right textarea {
   background-color: rgba(0, 0, 0, 0.377);
@@ -149,6 +150,7 @@ body {
 }
 .cont-right textarea::placeholder {
   color: white;
+  padding: 0 10px;
 }
 .cont-line {
   width: 100%;
